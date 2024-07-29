@@ -2,8 +2,13 @@
 // require("./examples/promiseTut")
 // require("./examples/asyncawaitTut")
 // require("./examples/addTut")
+// require("./examples/pizza-shop-ex")
+// require("./examples/copyData")
 // require("./CJS-Modules/iife")
 // require("./CJS-Modules/dataFetch")
 // require('./CJS-Modules/callback');
 // require("./BuiltIn-Modules/path-m")
 // require("./BuiltIn-Modules/event-m")
+// require("./BuiltIn-Modules/fs-m")
+// require("./BuiltIn-Modules/fs-promises-m")
+require("./BuiltIn-Modules/zlib-m")
