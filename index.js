@@ -11,4 +11,7 @@
 // require("./BuiltIn-Modules/event-m")
 // require("./BuiltIn-Modules/fs-m")
 // require("./BuiltIn-Modules/fs-promises-m")
-require("./BuiltIn-Modules/zlib-m")
+// require("./BuiltIn-Modules/zlib-m")
+// require("./BuiltIn-Modules/http-m")
+// require("./examples/dynamicHTML/type1")
+require("./examples/dynamicHTML/routing")
