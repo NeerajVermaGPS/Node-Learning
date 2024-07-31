@@ -1,0 +1,24 @@
+>Here are the lifecycle of Event Loops in NodeJS Runtime
+    1. Microtask Queue:
+        1. nextTick Queue(process.nextTick(()=>{}))
+        2. Promise Queue(Promise.resolve().then(()=>{}))
+
+    2. Timer Queue(setInterval, setTimeout etc.)
+
+    3. Microtask Queue:
+        1. nextTick Queue
+        2. Promise Queue
+
+    4. I/O Queue(File operations, Network I/O etc.)
+
+    5. Microtask Queue:
+        1. nextTick Queue
+        2. Promise Queue
+
+    6. Check Queue(setImmediate etc.)
+
+    7. Microtask Queue:
+        1. nextTick Queue
+        2. Promise Queue
+
+    8. Close Queue
