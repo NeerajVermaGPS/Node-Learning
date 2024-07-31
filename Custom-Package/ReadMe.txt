@@ -1,0 +1,2 @@
+- package.json created by CLI command: npm init or npm init --yes (for default values)
+- "Madam" is reserved keyword for all my projects.
